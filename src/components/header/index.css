@@ -1,0 +1,10 @@
+header {
+  background-color: #333333;
+  width: 100%;
+  color: white;
+  line-height: 100px;
+  text-align: center;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 40px;
+}

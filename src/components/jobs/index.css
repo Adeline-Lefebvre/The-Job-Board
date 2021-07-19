@@ -1,0 +1,39 @@
+.job {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  padding: 17px;
+  margin-top: 60px;
+}
+
+.titre {
+  font-family: "Roboto";
+  font-size: 30px;
+}
+
+.infos {
+  font-family: "Roboto";
+  font-size: 18px;
+  position: absolute;
+  bottom: 17px;
+}
+
+.red {
+  border: #e30413 solid 10px;
+}
+
+.green {
+  border: green solid 10px;
+}
+
+.yellow {
+  border: yellow solid 10px;
+}
+
+.blue {
+  border: blue solid 10px;
+}
+
+.pink {
+  border: pink solid 10px;
+}
